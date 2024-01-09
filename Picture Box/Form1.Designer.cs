@@ -45,6 +45,7 @@
             speechBubblePictureBox.TabIndex = 0;
             speechBubblePictureBox.TabStop = false;
             speechBubblePictureBox.Visible = false;
+            speechBubblePictureBox.Click += speechBubblePictureBox_Click;
             // 
             // pictureBox1
             // 

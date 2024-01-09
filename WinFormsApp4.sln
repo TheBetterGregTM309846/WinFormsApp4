@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Picture Box 2", "Picture Bo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrackBar", "TrackBar\TrackBar.csproj", "{CA5BA7C4-DC4F-4CEC-B8B4-A76B320010F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance Converter", "DIstance Converter\Distance Converter.csproj", "{458FF43F-EC27-4F98-B3DA-8334E86D7356}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Distance Converter", "DIstance Converter\Distance Converter.csproj", "{458FF43F-EC27-4F98-B3DA-8334E86D7356}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox", "ComboBox\ComboBox.csproj", "{FCA4C88F-DBAC-44A9-B01D-30E3988B8A4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComboBox", "ComboBox\ComboBox.csproj", "{FCA4C88F-DBAC-44A9-B01D-30E3988B8A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowser", "WebBrowser\WebBrowser.csproj", "{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{FCA4C88F-DBAC-44A9-B01D-30E3988B8A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA4C88F-DBAC-44A9-B01D-30E3988B8A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA4C88F-DBAC-44A9-B01D-30E3988B8A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

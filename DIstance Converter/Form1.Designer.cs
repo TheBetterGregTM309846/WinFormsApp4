@@ -189,6 +189,7 @@
             FromList.SelectedItem = null;
             FromList.Size = new Size(186, 125);
             FromList.TabIndex = 9;
+            FromList.SelectedIndexChanged += FromList_SelectedIndexChanged;
             // 
             // groupBox2
             // 
