@@ -21,7 +21,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Distance Converter", "DIsta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComboBox", "ComboBox\ComboBox.csproj", "{FCA4C88F-DBAC-44A9-B01D-30E3988B8A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowser", "WebBrowser\WebBrowser.csproj", "{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebBrowser", "WebBrowser\WebBrowser.csproj", "{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenFileDialog", "OpenFileDialog\OpenFileDialog.csproj", "{0130C5C8-C414-4848-946C-5EED1FDC9064}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opening", "..\..\source\repos\Opening\Opening\Opening.csproj", "{3F576945-5C92-4C3D-880F-62A8BF6F564A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menustrips and Tool-tips", "Menustrips and Tool-tips\Menustrips and Tool-tips.csproj", "{3A8D99DA-E039-4D05-9775-4511A0DA930D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Func2", "..\..\source\repos\Func2\Func2\Func2.csproj", "{32784B19-DD9A-4117-B3E0-FFD99AA3CDD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions", "..\..\source\repos\Functions\Functions\Functions.csproj", "{310F09C2-5964-490A-81A8-6FBCE979523B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +79,26 @@ Global
 		{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89DBED97-935E-4109-B9DE-5B38DEE0ABF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0130C5C8-C414-4848-946C-5EED1FDC9064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0130C5C8-C414-4848-946C-5EED1FDC9064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0130C5C8-C414-4848-946C-5EED1FDC9064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0130C5C8-C414-4848-946C-5EED1FDC9064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F576945-5C92-4C3D-880F-62A8BF6F564A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F576945-5C92-4C3D-880F-62A8BF6F564A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F576945-5C92-4C3D-880F-62A8BF6F564A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F576945-5C92-4C3D-880F-62A8BF6F564A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8D99DA-E039-4D05-9775-4511A0DA930D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8D99DA-E039-4D05-9775-4511A0DA930D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8D99DA-E039-4D05-9775-4511A0DA930D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8D99DA-E039-4D05-9775-4511A0DA930D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32784B19-DD9A-4117-B3E0-FFD99AA3CDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32784B19-DD9A-4117-B3E0-FFD99AA3CDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32784B19-DD9A-4117-B3E0-FFD99AA3CDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32784B19-DD9A-4117-B3E0-FFD99AA3CDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310F09C2-5964-490A-81A8-6FBCE979523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310F09C2-5964-490A-81A8-6FBCE979523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310F09C2-5964-490A-81A8-6FBCE979523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310F09C2-5964-490A-81A8-6FBCE979523B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
